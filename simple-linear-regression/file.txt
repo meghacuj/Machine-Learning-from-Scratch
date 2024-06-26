@@ -1,1 +1,7 @@
 
+A very easy example of simple linear regression,where i have one independent and one dependent variable."study_hr" and "score".
+let's visualze the data points and the score of the students.
+Summ
+scatter plot helps visualize if there's a linear relationship between study hours and scores.
+
+The model expects a 2D array with shape (n_samples, n_features).So, read carefully before applying it into the model.
